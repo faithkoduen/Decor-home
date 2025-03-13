@@ -1,0 +1,243 @@
+.items1 {
+    display: flex;
+    gap:4%;
+    margin-left: 3cm;
+ }
+ .items2{
+   display: flex;
+   gap: 20%;
+   margin-top: 2cm;
+ }
+ .shadow{
+   position: absolute;
+   overflow: hidden;
+   width: 35%;
+   height: 10%;
+   background-color: black;
+   transform: rotate(-20deg);
+   top: -1%;
+   right: -5%;
+   border-radius: 15%;
+
+ }
+ @font-face{
+   font-family: Carra;
+   src: url(MacondoSwashCaps-Regular.ttf)
+ }
+ .ce{
+   font-family: Carra;
+   margin-top: 0.4cm;
+ }
+ .main-container1{
+    margin: auto;
+    width: 80%;
+    background-color: white;
+   margin-left: 6cm;
+   margin-top: 5cm;
+   margin-right: 6cm;
+   position: relative;
+   object-fit: contain;
+   overflow: hidden;
+
+ }
+ 
+ 
+ .inner-Container1 {
+    display: flex;
+    margin-top: 5px;
+    width: 50%;
+    z-index: 1;
+    position: relative;
+    
+
+ 
+ }
+ .play{
+   display: flex;
+   margin-top: 1cm;
+   
+ }
+ .icon{
+   margin-left: 1cm;
+   margin-top: 0.6cm;
+   border: 3px;
+   border-radius: 3px 3px 3px 3px;
+   cursor: pointer;
+ }
+ .video{
+   margin-left: 0.5cm;
+   margin-top: 0.2cm;
+ }
+ #home{
+   border:  black dotted;
+   width: 5px;
+
+   
+ }
+ 
+ 
+ 
+ .first-inner-container1 {
+    /* margin: auto; */
+    width: 50%;
+    margin-left: 3cm;
+    
+    
+ }
+ 
+ 
+ #button1 {
+    background-color: gray;
+    color: white;
+    padding: 25px 25px 25px 25px;
+    border-radius: 40px;
+    border: none;
+    cursor: pointer;
+ 
+ 
+ }
+ .second-inner-container1 {
+    background-color: rgb(158, 153, 153);
+    width: 30%;
+    margin-top: 3cm;
+    margin-left: 3cm;
+    height: 50%;
+ }
+ 
+ 
+ .line1{
+    display: flex;
+    gap: 12%;
+    margin-top: 3cm;
+    margin-left: 3cm;
+    
+ }
+ 
+
+ #button2 {
+    background-color: white;
+    color: black;
+    padding: 25px 25px 25px 25px;
+    border-radius: 40px;
+    border: solid 1px black;
+    cursor: pointer;
+ }
+ .p{
+   margin-left: 3cm;
+   margin-top: 2cm;
+ }
+ 
+ .main-container2{
+    display: flex;
+    gap: 7%;
+    margin-top: 2cm;
+    margin-left: 3cm;
+    
+ }
+ .first-inner-container2{
+    width: 15.6%;
+    height: 12%;
+    border-radius: 30px;
+
+
+    
+
+ }
+ .second-inner-container2{
+    width: 15.6%;
+    height: 12%;
+    
+    
+    
+
+ }
+ .third-inner-container2{
+    width: 15.6%;
+    height: 12%;
+
+ }
+ .fourth-inner-container2{
+    width: 15.6%;
+    height: 12%;
+    
+
+
+ }
+ 
+ .main-container3{
+    display: flex;
+    margin-top: 3cm;
+ }
+ .h{
+    text-align: center;
+    margin-top: 3cm;
+ }
+ .first-inner-container3{
+   margin-left: 6cm;
+
+ }
+ .second-inner-container3{
+   margin-left: 6cm;
+
+ }
+ .main-container4{
+    display:flex;
+    margin-top: 5cm;
+ }
+ .first-inner-container4{
+   margin-left: 6cm;
+ }
+ .second-inner-container4{
+   margin-left: 6cm;
+ }
+ 
+.main-container5{
+    display: flex;
+    gap: 8%;
+    margin-top: 3cm;
+    margin-left: 4cm;
+}
+
+
+.main-container6{
+   display: flex;
+   margin-top: 3cm;
+}
+.first-inner-container6{
+   margin-left: 6cm;
+}
+.second-inner-container6{
+   margin-left: 6cm;
+}
+.name{
+   display: flex;
+}
+.name1{
+   margin-left: 1cm;
+   margin-top: 0.6cm;
+}
+.pointer{
+   display: flex;
+   gap: 80%;
+}
+#arrow{
+  margin-top: 0.5cm;
+}
+
+.main-container7{
+   display:flex;
+   gap: 9%;
+   margin-top: 5cm;
+   margin-left: 4cm;
+}
+.footer{
+   display:flex;
+   margin-left: 4cm;
+   gap: 27%;
+   margin-top: 4cm;
+}
+ 
+ 
+ 
+ 
+ 
