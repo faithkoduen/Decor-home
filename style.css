@@ -1,9 +1,9 @@
-.items1 {
+.page{
     display: flex;
     gap:4%;
     margin-left: 3cm;
  }
- .items2{
+ .collections{
    display: flex;
    gap: 20%;
    margin-top: 2cm;
@@ -24,11 +24,11 @@
    font-family: Carra;
    src: url(MacondoSwashCaps-Regular.ttf)
  }
- .ce{
+ .caraa{
    font-family: Carra;
    margin-top: 0.4cm;
  }
- .main-container1{
+ .body{
     margin: auto;
     width: 80%;
     background-color: white;
@@ -42,7 +42,7 @@
  }
  
  
- .inner-Container1 {
+ .home{
     display: flex;
     margin-top: 5px;
     width: 50%;
@@ -77,7 +77,7 @@
  
  
  
- .first-inner-container1 {
+ .elevate{
     /* margin: auto; */
     width: 50%;
     margin-left: 3cm;
@@ -86,7 +86,7 @@
  }
  
  
- #button1 {
+ #shop-now{
     background-color: gray;
     color: white;
     padding: 25px 25px 25px 25px;
@@ -96,7 +96,7 @@
  
  
  }
- .second-inner-container1 {
+ .decors{
     background-color: rgb(158, 153, 153);
     width: 30%;
     margin-top: 3cm;
@@ -105,7 +105,7 @@
  }
  
  
- .line1{
+ .types{
     display: flex;
     gap: 12%;
     margin-top: 3cm;
@@ -114,7 +114,7 @@
  }
  
 
- #button2 {
+ #button{
     background-color: white;
     color: black;
     padding: 25px 25px 25px 25px;
@@ -127,14 +127,14 @@
    margin-top: 2cm;
  }
  
- .main-container2{
+ .categories{
     display: flex;
     gap: 7%;
     margin-top: 2cm;
     margin-left: 3cm;
     
  }
- .first-inner-container2{
+ .earth-vase{
     width: 15.6%;
     height: 12%;
     border-radius: 30px;
@@ -143,7 +143,7 @@
     
 
  }
- .second-inner-container2{
+ .vase-nordic{
     width: 15.6%;
     height: 12%;
     
@@ -151,12 +151,12 @@
     
 
  }
- .third-inner-container2{
+ .first-ceramic-vase{
     width: 15.6%;
     height: 12%;
 
  }
- .fourth-inner-container2{
+ .second-ceramic-vase{
     width: 15.6%;
     height: 12%;
     
@@ -164,34 +164,43 @@
 
  }
  
- .main-container3{
+ .home-decor{
     display: flex;
     margin-top: 3cm;
  }
- .h{
+ .restyle{
     text-align: center;
     margin-top: 3cm;
  }
- .first-inner-container3{
+ .offer{
+   text-align: center;
+   margin-top: 3cm;
+ }
+ .reviews{
+   text-align: center;
+   margin-top: 3cm;
+
+ }
+ .trendy-home-decor{
    margin-left: 6cm;
 
  }
- .second-inner-container3{
+ .transform{
    margin-left: 6cm;
 
  }
- .main-container4{
+ .decor-ideas{
     display:flex;
     margin-top: 5cm;
  }
- .first-inner-container4{
+ .promotion{
    margin-left: 6cm;
  }
- .second-inner-container4{
+ .stylish-pieces{
    margin-left: 6cm;
  }
  
-.main-container5{
+.shop{
     display: flex;
     gap: 8%;
     margin-top: 3cm;
@@ -199,20 +208,20 @@
 }
 
 
-.main-container6{
+.appearance{
    display: flex;
    margin-top: 3cm;
 }
-.first-inner-container6{
+.distinctive{
    margin-left: 6cm;
 }
-.second-inner-container6{
+.image{
    margin-left: 6cm;
 }
-.name{
+.face{
    display: flex;
 }
-.name1{
+.arther{
    margin-left: 1cm;
    margin-top: 0.6cm;
 }
@@ -224,7 +233,7 @@
   margin-top: 0.5cm;
 }
 
-.main-container7{
+.contact{
    display:flex;
    gap: 9%;
    margin-top: 5cm;
